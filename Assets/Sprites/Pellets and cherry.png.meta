@@ -1,22 +1,19 @@
 fileFormatVersion: 2
-guid: 5e8a93cff9e00a546a09c59234252257
+guid: f21b89fcf5f22b041a4cfa8ae6a05557
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5356574185940491189
-    second: Wall_0
+      213: 5902239560578914379
+    second: Pellets and cherry_0
   - first:
-      213: 7088962694465329434
-    second: Wall_1
+      213: -2587811469924065553
+    second: Pellets and cherry_1
   - first:
-      213: 6120593257351612271
-    second: Wall_2
+      213: 284974180870887955
+    second: Pellets and cherry_2
   - first:
-      213: 9040745417708803086
-    second: Wall_3
-  - first:
-      213: -112489737986242061
-    second: Wall_4
+      213: -3268509094539161505
+    second: Pellets and cherry_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -106,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Wall_0
+      name: Pellets and cherry_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
-        width: 128
-        height: 128
+        x: 44
+        y: 300
+        width: 40
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,20 +117,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b446df18820a9a5b0800000000000000
-      internalID: -5356574185940491189
+      spriteID: b485093eb97f8e150800000000000000
+      internalID: 5902239560578914379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wall_1
+      name: Pellets and cherry_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 384
-        width: 128
-        height: 128
+        x: 24
+        y: 146
+        width: 80
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,20 +138,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a191a9df20e016260800000000000000
-      internalID: 7088962694465329434
+      spriteID: fee9e7dcd2f361cd0800000000000000
+      internalID: -2587811469924065553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wall_2
+      name: Pellets and cherry_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 256
-        width: 128
-        height: 128
+        x: 24
+        y: 28
+        width: 80
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,20 +159,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f670817a327b0f450800000000000000
-      internalID: 6120593257351612271
+      spriteID: 31a97f4f18e64f300800000000000000
+      internalID: 284974180870887955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Wall_3
+      name: Pellets and cherry_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
-        width: 128
-        height: 128
+        x: 152
+        y: 28
+        width: 80
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,29 +180,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e041647be0e277d70800000000000000
-      internalID: 9040745417708803086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wall_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f90476ed2b507ef0800000000000000
-      internalID: -112489737986242061
+      spriteID: f501cdabb4ce3a2d0800000000000000
+      internalID: -3268509094539161505
       vertices: []
       indices: 
       edges: []
