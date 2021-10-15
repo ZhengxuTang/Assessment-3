@@ -24,4 +24,10 @@ public class UIManager : MonoBehaviour
         SceneManager.LoadScene("SampleScene");
         DontDestroyOnLoad(this.gameObject);
     }
+
+    public void exit()
+    {
+        SceneManager.LoadScene("StartScene");
+        DontDestroyOnLoad(this.gameObject);
+    }
 }
